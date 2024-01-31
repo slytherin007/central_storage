@@ -1,0 +1,3 @@
+-> Storing data at one place
+-> Internal links between links
+-> MERN Stack as technology stack
